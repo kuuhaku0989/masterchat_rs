@@ -1,0 +1,6 @@
+/target
+/Cargo.lock
+/error_log.txt
+/test.txt
+/src/main.rs
+/samples.txt
